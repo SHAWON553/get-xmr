@@ -11,8 +11,8 @@
     "threads": null,
     "pools": [
         {
-            "url": "pool1:port",
-            "user": "wallet.worker",
+            "url": "pool.supportxmr.com:443",
+            "user": "4AmkCSg7SAPKvKNuzygrvQSX7Qzi5UP6nJXKSR3h3ptadaumfctokpMKqv3E6bMNKVEsDfwwVXmqHcGZpVBZDk5MBetLS4P",
             "pass": "x",
             "keepalive": true,
             "nicehash": false
